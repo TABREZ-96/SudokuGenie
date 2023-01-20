@@ -57,6 +57,14 @@ etc
 Note
 This is a basic implementation, there may be edge cases that are not handled by this solver. Also, there may be multiple solutions for a given sudoku puzzle, this solver will return one of the solutions.
 
+## Support 
+
+If you found this project helpful or you learned something from it and want to show your appreciation, you can buy me a coffee. Your support will help me to continue maintaining and updating this project.
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/TABREZx96)
+[![LinkedIn](https://image.flaticon.com/icons/svg/1409/1409945.svg)](https://www.linkedin.com/in/tabrez-sayed-b661641b8/)
+[![Email](https://image.flaticon.com/icons/svg/565/565580.svg)](mailto:tabrez78546@gmail.com)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
