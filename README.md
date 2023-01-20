@@ -63,7 +63,7 @@ If you found this project helpful or you learned something from it and want to s
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/TABREZx96)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabrez-sayed-b661641b8/)
-[![Email]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
