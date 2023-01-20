@@ -37,8 +37,7 @@ grid = [[5,3,0,0,7,0,0,0,0],
 solve(grid)
 for i in range(len(grid)):
 print(grid[i])
-
-
+```
 This will print the solved sudoku grid.
 
 ## Built With
